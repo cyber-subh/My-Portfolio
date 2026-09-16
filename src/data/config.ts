@@ -62,7 +62,7 @@ export const CONFIG = {
     linkedin: "https://www.linkedin.com/in/subhransu-rout-8b06a6308/",
     resume: "/Subhransu_Rout_Resume.pdf",
     hawkProjectUrl: "YOUR_HAWK_AI_PROJECT_URL",
-    hawkGithubUrl: "https://github.com/cyber-subh/hawk-ai-soc-copilot-",
+    hawkGithubUrl: "https://github.com/cyber-subh/hawkeye-ai",
   },
 
   stack: [
@@ -171,7 +171,7 @@ export const CONFIG = {
       desc: "AI-powered SOC assistant that correlates logs, maps to MITRE ATT&CK, and drafts incident reports.",
       stack: ["Python", "FastAPI", "Claude AI", "MITRE ATT&CK"],
       categories: ["cybersecurity", "ai"],
-      url: "https://github.com/cyber-subh/hawkeye-ai",
+      url: "YOUR_HAWK_AI_PROJECT_URL",
     },
     {
       name: "Banki Bites",
