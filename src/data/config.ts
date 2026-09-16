@@ -171,7 +171,7 @@ export const CONFIG = {
       desc: "AI-powered SOC assistant that correlates logs, maps to MITRE ATT&CK, and drafts incident reports.",
       stack: ["Python", "FastAPI", "Claude AI", "MITRE ATT&CK"],
       categories: ["cybersecurity", "ai"],
-      url: "YOUR_HAWK_AI_PROJECT_URL",
+      url: "https://github.com/cyber-subh/hawkeye-ai",
     },
     {
       name: "Banki Bites",
@@ -179,7 +179,7 @@ export const CONFIG = {
       desc: "A modern local grocery e-commerce website designed around a practical local-shopping experience — product catalog, categories, and a responsive shopping UI.",
       stack: ["Configure actual tech stack"],
       categories: ["fullstack", "websites"],
-      url: "YOUR_BANKI_BITES_PROJECT_URL",
+      url: "https://akcreation-apps.com/bankibites-grocerries/#deals",
     },
     // Add more project objects here — they'll automatically render
     // and respond to the category filters (cybersecurity / fullstack / ai / websites).
